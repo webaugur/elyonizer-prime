@@ -95,10 +95,11 @@ Provide one Merriam-Webster-style dictionary entry for the most developed Elyoni
 - **Scots Doric**: Phonetic similarity
 - **Welsh**: Phonetic similarity
 - **Basque**: Phonetic similarity
+- **German** (including variants): Phonetic similarity — **use selectively** due to large vocabulary size; only include strong or meaningful matches to avoid clutter.
 - **Hindi**: Exact phonetic match
 - **Aramaic**: Exact phonetic match
 
-Only add notes when a meaningful match exists. Group them if multiple languages apply.
+Only add notes when a meaningful match exists. Group them if multiple languages apply. Prioritize clarity over completeness.
 
 Format it like a real dictionary entry:
 
