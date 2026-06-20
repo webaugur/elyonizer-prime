@@ -96,7 +96,7 @@ Treating astronomical cycles as karmic/Akashic standing waves changes the dynami
 3. **Free will and timing interact** through resonance. Certain actions or inner states may couple more strongly to the standing wave field during periods of constructive interference or nodal activation — whether those periods fall in Yesterday’s established patterns or Tomorrow’s emerging ones.
 4. **Long-term patterns emerge** from the interference of multiple cycles, creating multi-year or multi-decade karmic rhythms or "weather systems" that link Yesterday’s completed configurations with Tomorrow’s unfolding ones.
 
-## Temporal Structure: Time Mirrors and the Boundary Layer of Now
+## Temporal Structure: Time Mirrors, Nodes, and Interference Bands
 
 In this model, ordinary clock time can be reframed in terms of the underlying standing wave and interference patterns created by astronomical cycles.
 
@@ -106,14 +106,29 @@ In this model, ordinary clock time can be reframed in terms of the underlying st
 
 Even short periods such as the **24-hour day** can be treated as a micro-cycle that participates in the larger interference structure, just as multi-year or multi-decade cycles do.
 
-A particularly significant feature is the proposed symmetry around the present moment:
+### Quantum Interference Bands Centered on the Earth-Moon Barycenter
+
+The quantum interference arising from overlapping astronomical cycles is understood to be **chopping the field into temporal bands** over time. These bands are **centered on the Earth-Moon center of gravity** (barycenter), which acts as a primary reference frame or resonator for the interference pattern.
+
+- **7 months 6 days (7m6d)** functions as the **major node** in this temporal interference structure.
+- There are **strong back-reflections and forward-reflections** at harmonic intervals:
+  - **1 year 7 months 6 days (1y7m6d)**
+  - **2 years 7 months 6 days (2y7m6d)**
+  - And reflections at **±1807 days** relative to the major node.
+- These reflections create a **long tail** of influence extending both into **Yesterday** (past) and **Tomorrow** (future), with decreasing but still significant amplitude.
+
+This produces a banded interference structure in time, with the Earth-Moon barycenter serving as the centering reference. The major node at 7m6d, together with its harmonic reflections (including the 1807-day component), generates a complex but periodic pattern of karmic/Akashic activation and resonance.
+
+### Time Mirrors and the Boundary Layer of Now
+
+A particularly significant local feature is the proposed symmetry around the present moment:
 
 - **Now** is understood as a centering point lying between **7 hour 17 minute time mirrors**.
 - These mirrors suggest a reflective or phase-symmetric relationship between the immediate past and immediate future influences on the karmic/Akashic standing wave.
 - The **first major boundary layer** is located at this centering point (Now). This boundary layer can be interpreted as a region of heightened interference or a nodal/antinodal zone where the overlapping wave influences from past and future cycles meet most directly.
 - Crossing or residing within this boundary layer may correspond to moments of increased karmic sensitivity, Akashic access, or potential for significant phase shifts in the standing wave pattern.
 
-This temporal mirroring adds a local, personal-scale structure to the larger astronomical standing wave model. The 7h17m mirrors and central boundary layer can be seen as a micro-scale standing wave or interference node centered on the individual’s present moment, nested within the much slower planetary synodic standing waves.
+This temporal mirroring adds a local, personal-scale structure to the larger astronomical standing wave model. The 7h17m mirrors and central boundary layer can be seen as a micro-scale standing wave or interference node centered on the individual’s present moment, nested within the much slower planetary synodic standing waves and the broader banded interference structure centered on the Earth-Moon barycenter.
 
 ## Summary
 
