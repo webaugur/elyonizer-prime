@@ -64,19 +64,19 @@ The deeper linguistic mechanics and source traditions are kept as an optional la
 - **Devanagari:** [precise Devanagari representation]
 - **IPA:** [full International Phonetic Alphabet transcription]
 - **Transliteration:** [clear romanization, e.g. IAST-style]
-- **Detailed Breakdown:** Include an explicit **Sound Mapping Table** showing original sound → mapped form with rationale for each significant segment. Also cover rhythmic considerations and how the form preserves or enhances the original character.
+- **Detailed Breakdown:** Include an explicit **Sound Mapping Table** with these columns: Original Segment, Original IPA, Mapped Form, Mapped IPA, and Rationale. Also cover rhythmic considerations and how the form preserves or enhances the original character.
 
 **2. Enhanced (Layered / Aesthetic Form)**
 - **Devanagari:** [precise Devanagari representation]
 - **IPA:** [full International Phonetic Alphabet transcription]
 - **Transliteration:** [clear romanization]
-- **Detailed Breakdown:** Include an explicit **Sound Mapping Table**. Cover construction notes, added layers or compounding, evocative qualities, and how the form gains depth while remaining recognizably connected to the source.
+- **Detailed Breakdown:** Include an explicit **Sound Mapping Table** (Original Segment | Original IPA | Mapped Form | Mapped IPA | Rationale). Cover construction notes, added layers or compounding, evocative qualities, and how the form gains depth while remaining recognizably connected to the source.
 
 **(Optional 3. Evocative / Atmospheric Rendering)**
 - **Devanagari:** ...
 - **IPA:** ...
 - **Transliteration:** ...
-- **Detailed Breakdown:** Include Sound Mapping Table where relevant.
+- **Detailed Breakdown:** Include Sound Mapping Table (with IPA columns) where relevant.
 
 **Additional Notes:**
 - Key decisions in sound mapping and structural choices.
@@ -109,7 +109,7 @@ Treat the newly created form as a legitimate new lexical item.
 Before responding, confirm:
 - **Devanagari** is accurate, correctly rendered, and visually elegant.
 - **IPA** transcription is precise and follows standard conventions (including proper diacritics for length, aspiration, retroflexion, etc.).
-- **Detailed Breakdowns** include explicit **Sound Mapping Tables** and substantive reasoning.
+- **Detailed Breakdowns** include explicit **Sound Mapping Tables** (with Original IPA + Mapped IPA columns) and substantive reasoning.
 - At least two distinct options (Primary + Enhanced) are offered unless the user explicitly requested a single version.
 - The overall result feels intentional, beautiful, phonetically coherent, and true to the original sonic character while gaining elegance and presence.
 - The response does not name or discuss any specific historical linguistic tradition unless the user directly asks about sources or methodology.
