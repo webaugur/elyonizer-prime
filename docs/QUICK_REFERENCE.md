@@ -46,7 +46,7 @@ Always include at the end of the main response:
 2. (optional) Second nuance or extended sense.
 
 *Etymology flavor:* Short invented but plausible etymological note.  
-*Cross-linguistic notes:* (if applicable) Note meanings for phonetic matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque; exact matches in Hindi & Aramaic.  
+*Cross-linguistic notes:* (if applicable) Note meanings for phonetic matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque; German (selectively, due to vocabulary size); exact matches in Hindi & Aramaic.  
 *Usage note:* (optional) When it adds value.
 ```
 
@@ -54,6 +54,7 @@ Always include at the end of the main response:
 
 **Cross-linguistic phonetic notes**: Check for phonetic matches (or exact matches for Hindi & Aramaic) in these languages and note the meaning in the Lexical Entry if applicable:
 - Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque (phonetic similarity)
+- **German** (incl. variants): Phonetic similarity — use selectively to avoid false positives from large vocabulary
 - Hindi, Aramaic (exact phonetic match)
 
 ---
@@ -69,7 +70,7 @@ Always include at the end of the main response:
 | **Vedic / Marathi**       | When they provide useful parallels               | Optional    |
 | **Lexical Entry**         | At the end of every full transformation          | Required    |
 | **Etymology Flavor**      | In every Lexical Entry                           | Required    |
-| **Cross-linguistic Notes** | Phonetic/exact matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque, Hindi, Aramaic | Recommended |
+| **Cross-linguistic Notes** | Phonetic/exact matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque + German (selectively); Hindi, Aramaic (exact) | Recommended |
 
 ---
 
