@@ -24,6 +24,7 @@ Each language file is designed to be read in under 10–12 minutes while providi
 | **Irish Gaelic**  | Phonetic similarity    | Poetic and mythic Celtic tradition | [irish-gaelic.md](./irish-gaelic.md) |
 | **Scots Doric**   | Phonetic similarity    | Regional warmth and directness     | [scots-doric.md](./scots-doric.md) |
 | **German**        | Phonetic similarity    | Use selectively (large vocabulary) | [german.md](./german.md) |
+| **Navajo**        | Phonetic similarity    | Grounded, relational, land-connected | [navajo.md](./navajo.md) |
 
 ## Philosophy of Use
 
