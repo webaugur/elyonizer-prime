@@ -1,4 +1,4 @@
-# Elyonizer v0.2 Quick Reference
+# Elyonizer Quick Reference
 
 ## Mode Structure
 
@@ -38,6 +38,21 @@ Supported languages:
 - Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque (phonetic similarity)
 - German (use selectively)
 - Hindi, Aramaic (exact match)
+
+## Language Documentation (v0.3)
+
+Comprehensive guides for all phonetic source languages:
+
+- [Language Index](docs/languages/README.md)
+- [Hebrew](docs/languages/hebrew.md)
+- [Hindi](docs/languages/hindi.md)
+- [Aramaic](docs/languages/aramaic.md)
+- [Welsh](docs/languages/welsh.md)
+- [Basque](docs/languages/basque.md)
+- [Cherokee](docs/languages/cherokee.md)
+- [Irish Gaelic](docs/languages/irish-gaelic.md)
+- [Scots Doric](docs/languages/scots-doric.md)
+- [German](docs/languages/german.md) (use selectively)
 
 ## Plain Language Restoration
 
