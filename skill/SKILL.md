@@ -85,13 +85,18 @@ The deeper linguistic mechanics and source traditions are kept as an optional la
 
 **Lexical Entry**
 
-Provide one Merriam-Webster-style dictionary entry for the most developed Elyonized form (usually the Enhanced version). Always include **etymology flavor** (a short, invented but plausible etymological note that supports the new form's meaning or feeling). Format it like a real dictionary entry:
+Provide one Merriam-Webster-style dictionary entry for the most developed Elyonized form (usually the Enhanced version). Always include **etymology flavor** (a short, invented but plausible etymological note that supports the new form's meaning or feeling).
+
+**Hebrew phonetic match note**: If the Elyonized form is phonetically similar to a known Hebrew word or phrase, include a brief note of its actual meaning in Hebrew toward the end of the entry.
+
+Format it like a real dictionary entry:
 
 **headword** /full IPA/ *part of speech*  
 1. First definition — concise, elegant, and evocative.  
 2. (if needed) Second definition or nuanced sense.
 
 *Etymology flavor:* [Invented but fitting etymological explanation]  
+*Hebrew note:* (if applicable) This form is phonetically close to Hebrew *[word/phrase]*, which means "...".  
 *Usage note:* [Optional but recommended when it adds value]
 
 Treat the newly created form as a legitimate new lexical item.
