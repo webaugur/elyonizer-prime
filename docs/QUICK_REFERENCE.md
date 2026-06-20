@@ -1,61 +1,60 @@
 # Elyonizer Quick Reference
 
-## Mode Structure
+## 1. Sound Mapping Table Format
 
-**Elyonize (Default)** → Light Decode Mode  
-Clean component breakdown + Overall Meaning + short Interpretation.
+Use this structure in **Detailed Breakdowns**:
 
-**Elyon Analyze** → Full Technical Mode  
-Sound Mapping Tables + Root & Cognate Notes + Lexical Entry + Plain Language Restoration.
+```markdown
+**Sound Mapping Table**
 
-## When to Use Which Mode
+| Original Segment | Original IPA | Original X-SAMPA | Mapped Form | Mapped IPA | Mapped X-SAMPA | Rationale |
+|------------------|--------------|------------------|-------------|------------|----------------|---------|
+| segment          | /ipa/        | xsampa           | mapped      | /ipa/      | xsampa         | Why this mapping was chosen |
+```
 
-- Normal use of **"Elyonize [phrase]"** → Light Decode mode (recommended)
-- **"Elyon Analyze [phrase]"** or "detailed Elyonize" → Full technical analysis
+**Required columns**: Original Segment, Original IPA, Mapped Form, Mapped IPA, Rationale  
+**Recommended additions**: Original X-SAMPA + Mapped X-SAMPA
 
-## Elyonize Output Template (Default)
+---
 
-**Breakdown:**
-- Component = meaning
+## 2. Root & Cognate Notes Format
 
-**Overall Meaning:**
-"Clear natural rendering"
+Add this section when relevant (especially in Enhanced forms):
 
-**Interpretation:**
-Short contextual explanation.
+```markdown
+**Root & Cognate Notes**
+- **Avestan (Hoffmann):** *form* (always use Hoffmann transcription when citing Avestan)
+- **Vedic:** *form* or root
+- **PIE:** *reconstruction* (when helpful)
+- **Marathi parallel:** (optional)
+- **Notes:** Brief explanation of the connection
+```
 
-## Elyon Analyze Output Template (Detailed)
+**Rule**: When Avestan material is included, **always** provide the **Karl Hoffmann transcription**.
 
-Includes:
-- Sound Mapping Table (with IPA + X-SAMPA)
-- Root & Cognate Notes (Hoffmann transcription for Avestan)
-- Lexical Entry with etymology flavor + cross-linguistic notes
-- Plain Language Restoration at the end
+---
 
-## Cross-linguistic Notes (Analyze Mode)
+## 3. Lexical Entry Format
 
-Supported languages:
-- Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque, Arabic, Navajo (phonetic similarity)
-- German (use selectively)
-- Hindi, Aramaic (exact match)
+Always include at the end of the main response:
 
-## Language Documentation (v0.3)
+---
 
-Comprehensive guides for all phonetic source languages:
+## 4. Optional: Temporal Resonance Section
 
-- [Language Index](docs/languages/README.md)
-- [Hebrew](docs/languages/hebrew.md)
-- [Hindi](docs/languages/hindi.md)
-- [Aramaic](docs/languages/aramaic.md)
-- [Arabic](docs/languages/arabic.md)
-- [Navajo](docs/languages/navajo.md)
-- [Welsh](docs/languages/welsh.md)
-- [Basque](docs/languages/basque.md)
-- [Cherokee](docs/languages/cherokee.md)
-- [Irish Gaelic](docs/languages/irish-gaelic.md)
-- [Scots Doric](docs/languages/scots-doric.md)
-- [German](docs/languages/german.md) (use selectively)
+When appropriate (especially for words with cyclical, rhythmic, or karmic qualities), you may add this section after the main interpretation:
 
-## Plain Language Restoration
+```markdown
+**Temporal Resonance**
 
-Simple, natural explanation at the end of **Elyon Analyze** responses (Google Translate style).
+This construction exhibits a [node / antinode / transitional] character within the Local Temporal Node Layer.
+
+- **Primary anchoring**: [Yesterday-weighted / Tomorrow-weighted / Balanced]
+- **Long-tail modulation**: [Present / Subtle / Strong]
+- **Interference quality**: [constructive / destructive / complex beating] between layers
+- **Nodal placement**: Lands near [major node / reflection point / antinode] in the ~7m6d structure
+
+Overall temporal signature: [stable / evolving / threshold]
+```
+
+See `TEMPORAL_RESONANCE_GUIDELINE.md` and `TEMPORAL_RESONANCE_TEMPLATE.md` for full guidance. This section is **optional**.
