@@ -41,9 +41,16 @@ Use this when it adds meaningful depth — it is **not required** for every outp
 
 See the internal guideline (`TEMPORAL_RESONANCE_GUIDELINE.md`) and template (`TEMPORAL_RESONANCE_TEMPLATE.md`) for when and how to apply it.
 
-## Elyonize Output Template (Default - Light Decode Mode)
+## Standardized Elyonize Output Template (Default - Light Decode Mode)
 
-Use this clean format:
+**Original:** [user input]
+
+**Elyonized Form(s):**
+
+**Primary (Resonant Form)**
+- **Devanagari:** [precise Devanagari representation]
+- **IPA:** [full International Phonetic Alphabet transcription]
+- **Transliteration:** [clear romanization]
 
 **Breakdown:**
 - [Component] = meaning / function
@@ -55,4 +62,34 @@ Use this clean format:
 **Interpretation:**
 Short paragraph explaining the conceptual or metaphorical meaning in context.
 
+**Additional Notes (if relevant):**
+- Key decisions in sound mapping and structural choices.
+- Any particularly pleasing resonances, rhythmic qualities, or emergent meanings.
+
 ---
+
+## Elyon Analyze Output Template (Detailed Technical Mode)
+
+Use when "Elyon Analyze", "detailed", or full breakdown is requested.
+
+**Original:** [user input]
+
+**Elyonized Form(s):**
+
+**Primary (Resonant Form)**
+- **Devanagari:** ...
+- **IPA:** ...
+- **Transliteration:** ...
+
+**Sound Mapping Table:**
+| Original Segment | Original IPA | Original X-SAMPA | Mapped Form | Mapped IPA | Mapped X-SAMPA | Rationale |
+
+**Root & Cognate Notes:**
+- **Avestan (Hoffmann):** ...
+- etc.
+
+**Lexical Entry**
+Merriam-Webster style entry with etymology flavor and cross-linguistic notes.
+
+**Interpretation:**
+Full interpretive paragraph.
