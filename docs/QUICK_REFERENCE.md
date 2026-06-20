@@ -1,123 +1,18 @@
 # Elyonizer Quick Reference
 
-## 1. Sound Mapping Table Format
+## Mode Structure
 
-Use this structure in **Detailed Breakdowns**:
+**Elyonize (Default)** → Light Decode Mode  
+Clean component breakdown + Overall Meaning + short Interpretation. This is now the default for "Elyonize".
 
-```markdown
-**Sound Mapping Table**
+**Elyon Analyze** → Full Technical Mode  
+Sound Mapping Tables + Root & Cognate Notes + Lexical Entry + Plain Language Restoration. Trigger with "Elyon Analyze" or requests for "detailed" / "full breakdown".
 
-| Original Segment | Original IPA | Original X-SAMPA | Mapped Form | Mapped IPA | Mapped X-SAMPA | Rationale |
-|------------------|--------------|------------------|-------------|------------|----------------|---------|
-| segment          | /ipa/        | xsampa           | mapped      | /ipa/      | xsampa         | Why this mapping was chosen |
-```
+## When to Use Which Mode
 
-**Required columns**: Original Segment, Original IPA, Mapped Form, Mapped IPA, Rationale  
-**Recommended additions**: Original X-SAMPA + Mapped X-SAMPA
+- Normal "Elyonize [phrase]" → Light Decode mode (recommended for most cases)
+- "Elyon Analyze [phrase]" or "detailed Elyonize" → Full technical analysis
 
----
+## Plain Language Restoration
 
-## 2. Root & Cognate Notes Format
-
-Add this section when relevant (especially in Enhanced forms):
-
-```markdown
-**Root & Cognate Notes**
-- **Avestan (Hoffmann):** *form* (always use Hoffmann transcription when citing Avestan)
-- **Vedic:** *form* or root
-- **PIE:** *reconstruction* (when helpful)
-- **Marathi parallel:** (optional)
-- **Notes:** Brief explanation of the connection
-```
-
-**Rule**: When Avestan material is included, **always** provide the **Karl Hoffmann transcription**.
-
----
-
-## 3. Lexical Entry Format
-
-Always include at the end of the main response:
-
-```markdown
-**Lexical Entry**
-
-**headword** /full IPA/ *part of speech*  
-1. Primary definition — concise and evocative.  
-2. (optional) Second nuance or extended sense.
-
-*Etymology flavor:* Short invented but plausible etymological note.  
-*Cross-linguistic notes:* (if applicable) Note meanings for phonetic matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque; German (selectively, due to vocabulary size); exact matches in Hindi & Aramaic.  
-*Usage note:* (optional) When it adds value.
-```
-
-**Etymology flavor** should be included in every Lexical Entry.
-
-**Cross-linguistic phonetic notes**: Check for phonetic matches (or exact matches for Hindi & Aramaic) in these languages and note the meaning in the Lexical Entry if applicable:
-- Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque (phonetic similarity)
-- **German** (incl. variants): Phonetic similarity — use selectively to avoid false positives from large vocabulary
-- Hindi, Aramaic (exact phonetic match)
-
----
-
-## 4. When to Use What
-
-| Element                    | When to Use                                      | Priority     |
-|---------------------------|--------------------------------------------------|--------------|
-| **Sound Mapping Table**   | Almost always in Detailed Breakdowns             | Required    |
-| **X-SAMPA**               | In tables for plain-text compatibility           | Recommended |
-| **Avestan (Hoffmann)**    | Whenever Avestan roots/cognates are mentioned    | **Mandatory** |
-| **PIE Phonology**         | When it illuminates why a mapping feels natural or elevated | Encouraged |
-| **Vedic / Marathi**       | When they provide useful parallels               | Optional    |
-| **Lexical Entry**         | At the end of every full transformation          | Required    |
-| **Etymology Flavor**      | In every Lexical Entry                           | Required    |
-| **Cross-linguistic Notes** | Phonetic/exact matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque + German (selectively); Hindi, Aramaic (exact) | Recommended |
-
----
-
-## 5. Quick Pronunciation Notes
-
-- **Elyon / Elyonizer**: Pronounced roughly like *"Alien"* (playful misdirection).
-- **El Elyon** (אֵל עֶלְיון): Ancient title meaning **"God Most High"** (appears in Genesis 14 with Melchizedek).
-
----
-
-## 6. Example Mini Structure
-
-```markdown
-**Detailed Breakdown:**
-
-**Sound Mapping Table**
-| ... | ... | ... | ... | ... | ... | ... |
-
-**Root & Cognate Notes**
-- **Avestan (Hoffmann):** ...
-- **PIE:** ...
-
-**Lexical Entry**
-**newword** /neɪ.wɜːd/ *noun*
-1. Definition here.
-
-*Etymology flavor:* ...
-*Cross-linguistic notes:* (if applicable) ...
-
-**Plain Language Restoration**
-It suggests something like "a luminous path of gentle movement" or "a supreme bringer of beauty and insight."
-```
-
----
-
-## 7. Plain Language Restoration (Required)
-
-At the **very end** of every full Elyonized response, add a short, natural explanation (in English or the user's language) that "restores" the meaning by breaking the form back into its root components and ideas — similar to a Google Translate rendering.
-
-Keep it simple, clear, and conversational.
-
-**Example:**
-```markdown
-**Plain Language Restoration**
-It suggests something like "a luminous path of gentle movement" or "a supreme bringer of beauty and insight."
-```
-
-This section must come **after** the Lexical Entry.
-
-Use this reference when building or reviewing Elyonized transformations.
+Used at the end of **Elyon Analyze** responses. Provides a simple, natural explanation that restores the meaning from root components (Google Translate style).
