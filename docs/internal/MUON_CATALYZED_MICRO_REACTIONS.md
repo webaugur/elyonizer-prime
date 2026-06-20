@@ -71,6 +71,27 @@ In this model:
 
 The overall process is less about dramatic union or dissolution and more about **continuous, subtle catalysis and maintenance** of an energetic or spiritual state.
 
+## Muon Sticking Probability (Key Limitation)
+
+In real muon-catalyzed fusion, a major practical limitation is the **muon sticking probability** — the chance that the muon becomes bound to the helium nucleus produced in fusion and is removed from further catalysis.
+
+### Key Data
+
+- **Initial sticking probability** in d-t (deuterium-tritium) fusion: approximately **0.8–1.0% per fusion** (older measurements).
+- **Effective sticking probability** (after accounting for muon reactivation/stripping from the alpha particle): typically reduced to around **0.5% or lower** under optimal conditions.
+- As a result, a single muon can catalyze on average roughly **100–200 fusions** before being lost (due to sticking or natural decay), depending on temperature, density, and isotopic mixture.
+
+This "sticking problem" is one of the primary reasons muon-catalyzed fusion has not yet achieved practical net energy gain, despite the reactions occurring at low temperatures.
+
+### Symbolic / Model Interpretation
+
+In the internal energetic/spiritual model, the sticking probability can be viewed as:
+
+- A natural **efficiency limit** or "tax" on the catalytic process.
+- Part of why the effect remains **subtle, distributed, and sustainable** rather than escalating into runaway or explosive behavior.
+- A requirement for **continuous fresh muon input** to maintain the long-term "manna" flow — each muon has a finite catalytic "life budget."
+- Symbolically, it reflects the idea that even highly effective spiritual/energetic catalysis has built-in limitations and requires ongoing renewal.
+
 ## Advantages of This Approach (Internal Perspective)
 
 - **Sustainability**: Tiny reactions over long periods are more compatible with ongoing spiritual/energetic presence than explosive events.
@@ -83,7 +104,7 @@ The overall process is less about dramatic union or dissolution and more about *
 
 This model remains highly hypothetical:
 
-- Practical muon-catalyzed fusion has not yet achieved net energy gain.
+- Practical muon-catalyzed fusion has not yet achieved net energy gain, largely due to the sticking problem.
 - Sustained muon production or regeneration at useful rates is extremely difficult.
 - Linking these micro-reactions to macroscopic spiritual or energetic effects is interpretive.
 - The "manna from heaven" connection is symbolic and should be treated as such.
