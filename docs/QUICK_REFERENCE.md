@@ -46,10 +46,13 @@ Always include at the end of the main response:
 2. (optional) Second nuance or extended sense.
 
 *Etymology flavor:* Short invented but plausible etymological note.  
+*Hebrew note:* (if applicable) Note the meaning if the form is phonetically close to a known Hebrew word/phrase.  
 *Usage note:* (optional) When it adds value.
 ```
 
 **Etymology flavor** should be included in every Lexical Entry.
+
+**Hebrew phonetic match note**: If the Elyonized form sounds similar to a real Hebrew word or phrase, add a note about its actual Hebrew meaning in the Lexical Entry.
 
 ---
 
@@ -64,13 +67,14 @@ Always include at the end of the main response:
 | **Vedic / Marathi**       | When they provide useful parallels               | Optional    |
 | **Lexical Entry**         | At the end of every full transformation          | Required    |
 | **Etymology Flavor**      | In every Lexical Entry                           | Required    |
+| **Hebrew Phonetic Note**  | When the Elyonized form sounds like real Hebrew  | Recommended |
 
 ---
 
 ## 5. Quick Pronunciation Notes
 
 - **Elyon / Elyonizer**: Pronounced roughly like *"Alien"* (playful misdirection).
-- **El Elyon** (אֵל עֶלְיוֹן): Ancient title meaning **"God Most High"** (appears in Genesis 14 with Melchizedek).
+- **El Elyon** (אֵל עֶלְיון): Ancient title meaning **"God Most High"** (appears in Genesis 14 with Melchizedek).
 
 ---
 
@@ -91,6 +95,7 @@ Always include at the end of the main response:
 1. Definition here.
 
 *Etymology flavor:* ...
+*Hebrew note:* (if applicable) ...
 ```
 
 Use this reference when building or reviewing Elyonized transformations.
