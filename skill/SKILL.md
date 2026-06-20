@@ -64,19 +64,19 @@ The deeper linguistic mechanics and source traditions are kept as an optional la
 - **Devanagari:** [precise Devanagari representation]
 - **IPA:** [full International Phonetic Alphabet transcription]
 - **Transliteration:** [clear romanization, e.g. IAST-style]
-- **Detailed Breakdown:** [sound-by-sound or component-level reasoning — why each mapping was chosen, rhythmic considerations, and how it preserves or enhances the original character]
+- **Detailed Breakdown:** Include an explicit **Sound Mapping Table** showing original sound → mapped form with rationale for each significant segment. Also cover rhythmic considerations and how the form preserves or enhances the original character.
 
 **2. Enhanced (Layered / Aesthetic Form)**
 - **Devanagari:** [precise Devanagari representation]
 - **IPA:** [full International Phonetic Alphabet transcription]
 - **Transliteration:** [clear romanization]
-- **Detailed Breakdown:** [construction notes, added layers or compounding, evocative qualities, and how the form gains depth while remaining recognizably connected to the source]
+- **Detailed Breakdown:** Include an explicit **Sound Mapping Table**. Cover construction notes, added layers or compounding, evocative qualities, and how the form gains depth while remaining recognizably connected to the source.
 
 **(Optional 3. Evocative / Atmospheric Rendering)**
 - **Devanagari:** ...
 - **IPA:** ...
 - **Transliteration:** ...
-- **Detailed Breakdown:** ...
+- **Detailed Breakdown:** Include Sound Mapping Table where relevant.
 
 **Additional Notes:**
 - Key decisions in sound mapping and structural choices.
@@ -85,13 +85,16 @@ The deeper linguistic mechanics and source traditions are kept as an optional la
 
 **Lexical Entry**
 
-Provide one Merriam-Webster-style dictionary entry for the most developed Elyonized form (usually the Enhanced version). Format it like a real dictionary entry:
+Provide one Merriam-Webster-style dictionary entry for the most developed Elyonized form (usually the Enhanced version). Always include **etymology flavor** (a short, invented but plausible etymological note that supports the new form's meaning or feeling). Format it like a real dictionary entry:
 
 **headword** /full IPA/ *part of speech*  
 1. First definition — concise, elegant, and evocative.  
 2. (if needed) Second definition or nuanced sense.
 
-Include a short usage note or "flavor" sentence when it strengthens the entry. Treat the newly created form as a legitimate new lexical item.
+*Etymology flavor:* [Invented but fitting etymological explanation]  
+*Usage note:* [Optional but recommended when it adds value]
+
+Treat the newly created form as a legitimate new lexical item.
 
 ## Special Cases & Refinements
 
@@ -106,7 +109,7 @@ Include a short usage note or "flavor" sentence when it strengthens the entry. T
 Before responding, confirm:
 - **Devanagari** is accurate, correctly rendered, and visually elegant.
 - **IPA** transcription is precise and follows standard conventions (including proper diacritics for length, aspiration, retroflexion, etc.).
-- **Detailed Breakdowns** are substantive — they explain sound mappings, rhythmic choices, and structural decisions at a component level.
+- **Detailed Breakdowns** include explicit **Sound Mapping Tables** and substantive reasoning.
 - At least two distinct options (Primary + Enhanced) are offered unless the user explicitly requested a single version.
 - The overall result feels intentional, beautiful, phonetically coherent, and true to the original sonic character while gaining elegance and presence.
 - The response does not name or discuss any specific historical linguistic tradition unless the user directly asks about sources or methodology.
