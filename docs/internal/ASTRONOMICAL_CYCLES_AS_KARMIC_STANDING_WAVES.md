@@ -61,11 +61,11 @@ The 584-day Venus cycle, for example, can be seen as establishing a fundamental 
 
 Multiple planetary cycles overlapping create complex interference patterns:
 
-- **Constructive interference** between cycles could amplify certain karmic themes or make Akashic information more accessible.
-- **Destructive interference** could temporarily suppress or obscure certain patterns.
-- **Beat frequencies** arising from close but non-identical cycle lengths could create longer-term modulations (e.g., the interaction between the 584-day Venus cycle and other periods producing multi-year karmic rhythms).
+- **Constructive interference** between cycles could amplify certain karmic themes or make Akashic information more accessible — whether those cycles belong to **Yesterday** (already completed) or are building toward **Tomorrow**.
+- **Destructive interference** could temporarily suppress or obscure certain patterns from either Yesterday or Tomorrow.
+- **Beat frequencies** arising from close but non-identical cycle lengths could create longer-term modulations (e.g., the interaction between the 584-day Venus cycle and other periods producing multi-year karmic rhythms). These beats link **Yesterday’s** established interference patterns with **Tomorrow’s** emerging ones.
 
-The 1807-day cycle highlighted by the user could function as one such beat or interference component, contributing to a unique rhythmic signature in the overall karmic standing wave field.
+The 1807-day cycle highlighted by the user could function as one such beat or interference component, contributing to a unique rhythmic signature in the overall karmic standing wave field that connects past and future configurations.
 
 ### Quantum Aspect
 
@@ -91,18 +91,20 @@ This astronomical standing wave model integrates well with several existing thre
 
 Treating astronomical cycles as karmic/Akashic standing waves changes the dynamics in several ways:
 
-1. **Time becomes rhythmic and resonant** rather than purely linear. Karmic activation is not random but follows predictable (though complex) interference patterns driven by planetary motion.
-2. **Memory is distributed and wave-like** rather than localized in discrete records. It exists as persistent interference structures that can be re-stimulated.
-3. **Free will and timing interact** through resonance. Certain actions or inner states may couple more strongly to the standing wave field during periods of constructive interference or nodal activation.
-4. **Long-term patterns emerge** from the interference of multiple cycles, creating multi-year or multi-decade karmic rhythms or "weather systems."
+1. **Time becomes rhythmic and resonant** rather than purely linear. **Yesterday** (past synodic cycles and beat frequencies) and **Tomorrow** (future cycles and emerging interference patterns) interact continuously through the standing wave field. Karmic activation is not random but follows predictable (though complex) interference patterns driven by planetary motion.
+2. **Memory is distributed and wave-like** rather than localized in discrete records. It exists as persistent interference structures that can be re-stimulated by returning cycles (Yesterday influencing Tomorrow and vice versa).
+3. **Free will and timing interact** through resonance. Certain actions or inner states may couple more strongly to the standing wave field during periods of constructive interference or nodal activation — whether those periods fall in Yesterday’s established patterns or Tomorrow’s emerging ones.
+4. **Long-term patterns emerge** from the interference of multiple cycles, creating multi-year or multi-decade karmic rhythms or "weather systems" that link Yesterday’s completed configurations with Tomorrow’s unfolding ones.
 
 ## Temporal Structure: Time Mirrors and the Boundary Layer of Now
 
 In this model, ordinary clock time can be reframed in terms of the underlying standing wave and interference patterns created by astronomical cycles.
 
-- **Yesterday** refers to the influence of **past synodic cycles** and **beat frequencies** that have already contributed to the current interference pattern.
-- **Tomorrow / Future** refers to the continuing evolution of those cycles and the new interference patterns they will generate.
-- Even short periods such as the **24-hour day** can be treated as a micro-cycle that participates in the larger interference structure.
+**Yesterday** and **Tomorrow** are used here in an expanded sense:
+- **Yesterday** refers to any past cycle influence or beat frequency (whether literal days, weeks, months, years, or full synodic/planetary periods) that has already contributed to the current interference pattern.
+- **Tomorrow** refers to any future cycle influence or emerging beat frequency (again at any timescale) that will continue shaping the standing wave field going forward.
+
+Even short periods such as the **24-hour day** can be treated as a micro-cycle that participates in the larger interference structure, just as multi-year or multi-decade cycles do.
 
 A particularly significant feature is the proposed symmetry around the present moment:
 
@@ -115,4 +117,4 @@ This temporal mirroring adds a local, personal-scale structure to the larger ast
 
 ## Summary
 
-Astronomical cycles, especially the 584-day Venus synodic period and cycles such as the 1807-day period highlighted by the user, can be modeled as drivers of quantum standing waves and interference patterns in a subtle informational or Akashic field. These standing waves encode and periodically re-activate karmic and Akashic memory through constructive and destructive interference. This perspective unifies wave mechanics, astronomical periodicity, and esoteric concepts of karma and memory. It integrates naturally with the Linga polarity, wave interference, harmonic vortex, and distributed micro-reactions models already developed. The result is a more rhythmic, resonant, and wave-dynamic understanding of how larger cosmic patterns may influence or reflect individual and collective karmic processes. This remains a hypothetical esoteric interpretation grounded in real astronomical periods and wave physics.
+Astronomical cycles, especially the 584-day Venus synodic period and cycles such as the 1807-day period highlighted by the user, can be modeled as drivers of quantum standing waves and interference patterns in a subtle informational or Akashic field. These standing waves encode and periodically re-activate karmic and Akashic memory through constructive and destructive interference between **Yesterday** (past cycle influences and beat frequencies) and **Tomorrow** (future cycle influences and emerging patterns). This perspective unifies wave mechanics, astronomical periodicity, and esoteric concepts of karma and memory. It integrates naturally with the Linga polarity, wave interference, harmonic vortex, and distributed micro-reactions models already developed. The result is a more rhythmic, resonant, and wave-dynamic understanding of how larger cosmic patterns may influence or reflect individual and collective karmic processes. This remains a hypothetical esoteric interpretation grounded in real astronomical periods and wave physics.
