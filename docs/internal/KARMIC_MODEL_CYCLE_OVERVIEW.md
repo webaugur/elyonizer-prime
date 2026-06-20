@@ -94,8 +94,9 @@ These interactions produce a highly textured, multi-scale interference field in 
 
 ## Overall Model Strengths
 
+- **Core mechanics are domain-general**: The model is grounded in three generalized principles (see `CORE_INTERFERENCE_MECHANICS.md`): Localized Interference Systems, Long-Tail Modulation, and Perturbation & Reconfiguration Events. These apply across astronomical, symbolic (language), and personal/collective domains.
 - **Multi-scale coherence**: Personal (7h17m mirrors), intermediate (7m6d bands + reflections), and large-scale (planetary synodics, Saros, Inex, nodal) rhythms are nested and interacting.
-- **Rich interference texture**: Combination of commensurate harmonics and incommensurate modulators (especially 1807d) produces complex, non-repeating “karmic weather.”
+- **Rich interference texture**: Combination of commensurate harmonics and incommensurate modulators (especially 1807d) produces complex, non-repeating "karmic weather."
 - **Strong nodal events**: Eclipses, standstills, and Great Conjunctions provide predictable, high-impact perturbations that can phase-shift or amplify interference patterns.
 - **Yesterday/Tomorrow integration**: The generalized definition works consistently across all layers and timescales.
 - **Earth-Moon centering**: The barycenter serves as a physically meaningful reference frame for the core temporal interference bands.

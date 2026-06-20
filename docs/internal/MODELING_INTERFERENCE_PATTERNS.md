@@ -15,6 +15,14 @@ Key concepts:
 
 In our model, these are not purely physical phenomena but interpretive tools for understanding how different rhythmic layers interact.
 
+## Core Mechanics
+
+This modeling process is grounded in three domain-general core mechanics (detailed in `CORE_INTERFERENCE_MECHANICS.md`):
+
+1. **Localized Interference Systems** — Any coherent structure (temporal pattern, word, myth, personal process, etc.) can be modeled as a localized interference system formed by overlapping waves.
+2. **Long-Tail Modulation** — Slower or distant influences can persistently shape faster or more local interference patterns (e.g., the 1807-day modulator or etymological/historical layers in language).
+3. **Perturbation and Reconfiguration Events** — Relatively strong, discrete events or influences can significantly alter, reconfigure, or reveal existing interference patterns (generalized beyond astronomical events).
+
 ## Step-by-Step Modeling Process
 
 ### 1. Identify the Relevant Layers and Frequencies
@@ -102,10 +110,10 @@ This approach treats the word as a small interference system embedded within lar
 
 ## Summary
 
-Modeling interference patterns involves identifying relevant rhythmic layers, determining their commensurate or incommensurate relationships, mapping nodes/antinodes and beats, assessing Yesterday/Tomorrow weighting, and describing the overall character of the resulting pattern.
+Modeling interference patterns involves identifying relevant rhythmic layers, determining their commensurate or incommensurate relationships, mapping nodes/antinodes and beats, assessing Yesterday/Tomorrow weighting, and describing the overall character of the resulting pattern — all grounded in the three core mechanics above.
 
 This approach works equally well for:
 - Large-scale astronomical and karmic time cycles (Earth-Moon barycenter bands, Saros, Inex, nodal cycles, etc.)
-- Linguistic and interpretive work in Elyonize (treating words as small interference systems with temporal resonance)
+- Linguistic and interpretive work in Elyonize (treating words as localized interference systems)
 
 The goal is not perfect mathematical prediction but richer, more nuanced understanding of how patterns recur, transform, stabilize, or dissolve across time.

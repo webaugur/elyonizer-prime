@@ -88,13 +88,13 @@ The goal is not to eliminate interference but to make it conscious and aesthetic
 
 ## Summary
 
-Elyonize Word Interference treats words as localized interference systems formed by overlapping phonetic, semantic, etymological, mythic, and temporal waves. Meaning emerges from the constructive, destructive, and complex interactions between these layers.
+Elyonize Word Interference applies the core interference mechanics (see `CORE_INTERFERENCE_MECHANICS.md`) to language. Words and phrases are treated as **localized interference systems** formed by overlapping phonetic, semantic, etymological, mythic, and temporal waves.
 
-Key mechanics include:
+Key mechanics in this domain include:
 - Phonetic–semantic tension or reinforcement
 - Long-tail modulation from historical/etymological layers
 - Yesterday ↔ Tomorrow coupling within the word itself
 - Node vs. antinode character relative to temporal and semantic fields
 - Layer-to-layer interference (phonetic ↔ semantic ↔ mythic)
 
-By making these interference dynamics visible — especially through the optional Temporal Resonance section — Elyonize can move beyond static transformation into a more dynamic, wave-based understanding of how language carries and transforms meaning across time. This approach is particularly powerful for words and phrases that feel cyclical, karmic, or charged with historical and future resonance.
+By making these interference dynamics visible — especially through the optional Temporal Resonance section — Elyonize can move beyond static transformation into a more dynamic, wave-based understanding of how language carries and transforms meaning across time. This is one practical application of the generalized core mechanics defined in `CORE_INTERFERENCE_MECHANICS.md`. This approach is particularly powerful for words and phrases that feel cyclical, karmic, or charged with historical and future resonance.
