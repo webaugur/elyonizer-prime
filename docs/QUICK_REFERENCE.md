@@ -1,18 +1,44 @@
-# Elyonizer Quick Reference
+# Elyonizer v0.2 Quick Reference
 
 ## Mode Structure
 
 **Elyonize (Default)** → Light Decode Mode  
-Clean component breakdown + Overall Meaning + short Interpretation. This is now the default for "Elyonize".
+Clean component breakdown + Overall Meaning + short Interpretation.
 
 **Elyon Analyze** → Full Technical Mode  
-Sound Mapping Tables + Root & Cognate Notes + Lexical Entry + Plain Language Restoration. Trigger with "Elyon Analyze" or requests for "detailed" / "full breakdown".
+Sound Mapping Tables + Root & Cognate Notes + Lexical Entry + Plain Language Restoration.
 
 ## When to Use Which Mode
 
-- Normal "Elyonize [phrase]" → Light Decode mode (recommended for most cases)
-- "Elyon Analyze [phrase]" or "detailed Elyonize" → Full technical analysis
+- Normal use of **"Elyonize [phrase]"** → Light Decode mode (recommended)
+- **"Elyon Analyze [phrase]"** or "detailed Elyonize" → Full technical analysis
+
+## Elyonize Output Template (Default)
+
+**Breakdown:**
+- Component = meaning
+
+**Overall Meaning:**
+"Clear natural rendering"
+
+**Interpretation:**
+Short contextual explanation.
+
+## Elyon Analyze Output Template (Detailed)
+
+Includes:
+- Sound Mapping Table (with IPA + X-SAMPA)
+- Root & Cognate Notes (Hoffmann transcription for Avestan)
+- Lexical Entry with etymology flavor + cross-linguistic notes
+- Plain Language Restoration at the end
+
+## Cross-linguistic Notes (Analyze Mode)
+
+Supported languages:
+- Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque (phonetic similarity)
+- German (use selectively)
+- Hindi, Aramaic (exact match)
 
 ## Plain Language Restoration
 
-Used at the end of **Elyon Analyze** responses. Provides a simple, natural explanation that restores the meaning from root components (Google Translate style).
+Simple, natural explanation at the end of **Elyon Analyze** responses (Google Translate style).

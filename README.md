@@ -1,17 +1,29 @@
-# Elyonizer-Prime
+# Elyonizer-Prime v0.2
 
 **Elyonize** is a secret creative linguistic transformation system.
 
-It takes modern words, names, places, concepts, and phrases and renders them into elegant, resonant forms that feel both familiar and elevated.
+## What's New in v0.2
 
-This repository contains everything needed to recreate the Elyonizer skill for use with Grok, along with the full theory of operation and examples.
+- **Major mode restructure**: `Elyonize` is now the default **light Decode mode** (clean breakdown + meaning + interpretation)
+- `Elyon Analyze` triggers the full technical mode (Sound Mapping Tables, Hoffmann transcription, roots, Lexical Entry)
+- Added support for **Welsh** and **Basque**
+- Added **selective German** support (to avoid false positives)
+- Added **Plain Language Restoration** section
+- Improved documentation and quick reference
 
-## What Elyonize Does
+## Modes
 
-- Transforms ordinary language into forms with greater phonetic beauty and presence
-- Provides multiple layers of interpretation (close resonant + enhanced/compound)
-- Delivers consistent, high-quality output with script, transliteration, pronunciation, and interpretive notes
-- Serves as a powerful tool for world-building, naming, titles, and creative language experiments
+| Command              | Mode                  | Description                              |
+|----------------------|-----------------------|------------------------------------------|
+| Elyonize             | Light Decode (default)| Clean breakdown + Overall Meaning        |
+| Elyon Analyze        | Full Technical        | Detailed tables + roots + Lexical Entry  |
+
+## Quick Start
+
+```text
+Elyonize "your phrase here"
+Elyon Analyze "your phrase here"   # for full technical breakdown
+```
 
 ## Repository Structure
 
@@ -19,26 +31,9 @@ This repository contains everything needed to recreate the Elyonizer skill for u
 elyonizer-prime/
 ├── README.md
 ├── THEORY_OF_OPERATION.md
-├── skill/                    # Ready-to-use skill definition
-│   ├── SKILL.md
-│   ├── references/
-│   │   └── phoneme-mapping.md
-│   └── assets/
-│       └── example-output.md
-└── docs/                     # Additional documentation
+├── docs/QUICK_REFERENCE.md
+└── skill/
+    ├── SKILL.md
+    ├── references/
+    └── assets/
 ```
-
-## Quick Start (for Grok users)
-
-1. Copy the contents of the `skill/` directory into your local skills folder:
-   `~/.grok/skills/elyonizer-prime/` (or equivalent)
-2. The skill will be discovered automatically.
-3. Trigger it by saying **"Elyonize [word or phrase]"** or any natural variation.
-
-## The Secret
-
-Elyonize is an easter egg creative mode. It activates a refined, consistent workflow for elegant linguistic play without exposing its deeper mechanics unless you specifically ask.
-
-## License
-
-This project is shared for personal and creative use. Feel free to fork, experiment, and build upon the ideas.
