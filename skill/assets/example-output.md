@@ -4,20 +4,20 @@
 
 **Elyonized Options:**
 
-1. **Primary (Resonant Form)**
-   - **Transformed Script:** इन्दियाना
-   - **Transliterated Form:** Indiyānā
-   - **Pronunciation Guide:** In-dee-yaa-naa (stress on the third syllable)
-   - **Interpretation / Breakdown:** Direct resonant mapping that preserves the four-syllable flow. 'In' maps closely, 'di' lengthens naturally, and 'ana' extends to 'ānā' for a graceful, place-name quality.
+**1. Primary (Resonant Form)**
+- **Devanagari:** इन्दियाना
+- **IPA:** /ɪn.di.jaː.naː/
+- **Transliteration:** Indiyānā
+- **Detailed Breakdown:** Direct resonant mapping preserving the four-syllable structure. 'In' maps closely to a clear initial vowel-consonant, 'di' receives natural lengthening, and the final 'ana' extends to 'ānā' for graceful place-name resonance. The rhythm stays close to the original while gaining a smoother, more flowing quality.
 
-2. **Enhanced (Layered Form)**
-   - **Transformed Script:** इन्दु-आयन or सिन्धु-प्रान्त
-   - **Transliterated Form:** Indu-āyana or Sindhu-prānta
-   - **Pronunciation Guide:** In-doo aa-ya-na or Sin-dhu praanta
-   - **Interpretation / Breakdown:** Builds a compound with lunar or flowing associations ("path of the moon" / riverine elegance). Offers a more poetic and elevated geographic resonance while staying true to the original sound shape.
+**2. Enhanced (Layered Form)**
+- **Devanagari:** इन्दु-आयन or सिन्धु-प्रान्त
+- **IPA:** /ˈɪn.du ː.ja.na/ or /ˈsɪn.d̪u praːn.t̪/
+- **Transliteration:** Indu-āyana or Sindhu-prānta
+- **Detailed Breakdown:** The first option layers a lunar/flowing association ("path of the moon") while keeping strong sonic fidelity. The second evokes riverine elegance. Both maintain the original stress pattern and add gentle compounding that feels organic rather than forced.
 
 **Additional Notes:** 
-A hybrid approach works beautifully for place names: one version stays very close to the original sound for instant recognition, while the second adds depth and an elevated, almost mythic quality. Pronunciation guides are designed to be immediately readable for English speakers while preserving important length and stress distinctions.
+A hybrid approach works beautifully for place names. The Primary stays very close for instant recognition; the Enhanced adds depth and an elevated geographic feeling. IPA provides precise phonetic information while Devanagari delivers visual presence.
 
 ---
 
@@ -27,16 +27,16 @@ A hybrid approach works beautifully for place names: one version stays very clos
 
 **Elyonized Options:**
 
-1. **Primary (Resonant Form)**
-   - **Transformed Script:** सुपर-कालिफ्रजिलिस्टिक-एक्स्पियालिडोशियस (or nativized flow)
-   - **Transliterated Form:** Supar-kāliphrajilistikekṣpiyālidośiyas
-   - **Pronunciation Guide:** Soo-par kaa-lee-phra-ji-lis-tik ek-spee-yaa-li-do-shi-yas
-   - **Interpretation / Breakdown:** Chunked into harmonious segments that respect natural rhythmic breaks. Long compound preserved with adjustments for smoother flow and euphony.
+**1. Primary (Resonant Form)**
+- **Devanagari:** सुपरकालिफ्रजिलिस्टिकएक्स्पियालिडोशियस
+- **IPA:** /suˈpɑːr.kɑː.li.fra.dʒi.lɪs.tɪk ˌɛk.spi.jɑː.li.doʃ.i.jəs/
+- **Transliteration:** Suparkāliphrajilistikekṣpiyālidośiyas
+- **Detailed Breakdown:** The long word is chunked into harmonious rhythmic segments that respect the original playful energy while smoothing harsh junctions. Vowel lengthening in key positions adds flow without losing recognizability.
 
-2. **Enhanced (Interpretive / Atmospheric)**
-   - **Transformed Script:** सर्वोत्तम-सौन्दर्य-जनक-महावाक्य (or compact evocative title form)
-   - **Transliterated Form:** Sarvottama-saundarya-janaka-mahāvākya
-   - **Pronunciation Guide:** Sar-vo-t-ta-ma saun-dar-ya ja-na-ka ma-haa-vaa-kya
-   - **Interpretation / Breakdown:** Captures the joyful, all-encompassing spirit of the original as "the supreme beauty-bringing great saying." Creates a majestic, almost incantatory title that could stand on its own in creative contexts.
+**2. Enhanced (Interpretive / Atmospheric)**
+- **Devanagari:** सर्वोत्तमसौन्दर्यजनकमहावाक्य
+- **IPA:** /sər.voːt.t̪ə.mə səun.dər.jə dʒə.nə.kə mə.hɑː.vɑː.kjə/
+- **Transliteration:** Sarvottama-saundarya-janaka-mahāvākya
+- **Detailed Breakdown:** This version captures the joyful, all-encompassing spirit as "the supreme beauty-bringing great saying." It transforms the playful nonsense word into something that feels like a meaningful, self-contained title or incantation while still echoing the original sonic shape.
 
-**Additional Notes:** For especially long or playful invented words, deliver both a faithful resonant version and one that elevates the word into something that feels like a meaningful, self-contained title or concept. This dual approach has been especially effective for creative and world-building work.
+**Additional Notes:** For very long invented words, the Primary stays faithful to the sound and rhythm, while the Enhanced elevates it into something that could function as a title or concept name. IPA ensures the pronunciation is unambiguous.
