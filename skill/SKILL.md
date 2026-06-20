@@ -93,6 +93,8 @@ Provide one Merriam-Webster-style dictionary entry for the most developed Elyoni
 - **Cherokee**: Phonetic similarity
 - **Irish Gaelic**: Phonetic similarity
 - **Scots Doric**: Phonetic similarity
+- **Welsh**: Phonetic similarity
+- **Basque**: Phonetic similarity
 - **Hindi**: Exact phonetic match
 - **Aramaic**: Exact phonetic match
 
