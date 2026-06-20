@@ -99,6 +99,25 @@ Always include at the end of the main response:
 
 *Etymology flavor:* ...
 *Cross-linguistic notes:* (if applicable) ...
+
+**Plain Language Restoration**
+It suggests something like "a luminous path of gentle movement" or "a supreme bringer of beauty and insight."
 ```
+
+---
+
+## 7. Plain Language Restoration (Required)
+
+At the **very end** of every full Elyonized response, add a short, natural explanation (in English or the user's language) that "restores" the meaning by breaking the form back into its root components and ideas — similar to a Google Translate rendering.
+
+Keep it simple, clear, and conversational.
+
+**Example:**
+```markdown
+**Plain Language Restoration**
+It suggests something like "a luminous path of gentle movement" or "a supreme bringer of beauty and insight."
+```
+
+This section must come **after** the Lexical Entry.
 
 Use this reference when building or reviewing Elyonized transformations.
