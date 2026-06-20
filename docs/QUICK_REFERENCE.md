@@ -46,13 +46,15 @@ Always include at the end of the main response:
 2. (optional) Second nuance or extended sense.
 
 *Etymology flavor:* Short invented but plausible etymological note.  
-*Hebrew note:* (if applicable) Note the meaning if the form is phonetically close to a known Hebrew word/phrase.  
+*Cross-linguistic notes:* (if applicable) Note meanings for phonetic matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric; exact matches in Hindi & Aramaic.  
 *Usage note:* (optional) When it adds value.
 ```
 
 **Etymology flavor** should be included in every Lexical Entry.
 
-**Hebrew phonetic match note**: If the Elyonized form sounds similar to a real Hebrew word or phrase, add a note about its actual Hebrew meaning in the Lexical Entry.
+**Cross-linguistic phonetic notes**: Check for phonetic matches (or exact matches for Hindi & Aramaic) in these languages and note the meaning in the Lexical Entry if applicable:
+- Hebrew, Cherokee, Irish Gaelic, Scots Doric (phonetic similarity)
+- Hindi, Aramaic (exact phonetic match)
 
 ---
 
@@ -67,7 +69,7 @@ Always include at the end of the main response:
 | **Vedic / Marathi**       | When they provide useful parallels               | Optional    |
 | **Lexical Entry**         | At the end of every full transformation          | Required    |
 | **Etymology Flavor**      | In every Lexical Entry                           | Required    |
-| **Hebrew Phonetic Note**  | When the Elyonized form sounds like real Hebrew  | Recommended |
+| **Cross-linguistic Notes** | Phonetic/exact matches in Hebrew, Cherokee, Irish Gaelic, Scots Doric, Hindi, Aramaic | Recommended |
 
 ---
 
@@ -95,7 +97,7 @@ Always include at the end of the main response:
 1. Definition here.
 
 *Etymology flavor:* ...
-*Hebrew note:* (if applicable) ...
+*Cross-linguistic notes:* (if applicable) ...
 ```
 
 Use this reference when building or reviewing Elyonized transformations.
