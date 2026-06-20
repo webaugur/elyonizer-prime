@@ -28,25 +28,30 @@ Common techniques include:
 - Strategic lengthening of key vowels for gravitas
 - Introduction of gentle compounding or suffixation that feels organic
 - Creation of internal rhythm or assonance that makes the word more chantable or memorable
-- Subtle semantic or atmospheric coloring (e.g., suggesting lunar, flowing, ancient, or luminous qualities) when it emerges naturally from the sound
+- Subtle semantic or atmospheric coloring when it emerges naturally from the sound
 
 The enhanced form answers: *What deeper presence or mythic weight can this word carry while still sounding like its original self?*
 
-### Pillar III: Script as Elevation
+### Pillar III: Precision + Beauty through Script and IPA
 
-Elyonizer always produces output in a dedicated script system alongside clear romanization and pronunciation guidance.
+One of Elyonizer’s greatest strengths is its dual use of **Devanagari** and **International Phonetic Alphabet (IPA)**.
 
-The script serves two simultaneous purposes:
-1. **Precision** — It encodes exact vowel length, consonant quality, and phonetic nuance that romanization alone cannot reliably convey.
-2. **Dignity** — Visually, the transformed word acquires a presence and weight that signals it belongs to a deeper stratum of language. It looks like it could appear on a temple wall, a starship hull, or an ancient map.
+**Devanagari** is used because it is one of the most phonetically complete and visually elegant scripts available. It can represent an extremely wide range of human speech sounds with precision (including fine distinctions in vowel length, aspiration, nasalization, and retroflexion) while remaining beautiful to look at. This makes it ideal for both accurate representation *and* aesthetic elevation.
 
-The combination of script + transliteration + spoken guide creates a complete sensory experience of the new form.
+**IPA** is provided alongside it for scientific clarity and universality. While Devanagari offers visual and cultural presence, IPA gives linguistically trained readers (and future tools) an unambiguous, machine-readable record of the exact pronunciation intended.
+
+Together they create a powerful combination:
+- Visual beauty and dignity (Devanagari)
+- Scientific precision and accessibility (IPA)
+- Clear romanized bridge for general readers
+
+This tripartite output (Devanagari + IPA + Transliteration) is a deliberate design choice that serves both creative and analytical needs.
 
 ## 3. The Living Dictionary of Resonance
 
 At the heart of Elyonizer is a living, evolving map of sound correspondences.
 
-Rather than a fixed historical dictionary, this is a *practical resonance map* refined through hundreds of transformations. Certain sound movements have proven, through repeated use, to produce consistently pleasing and recognizable results. These patterns are not arbitrary; they emerge from deep observation of what makes a word feel both familiar and exalted when rendered in the richer phonetic space.
+Rather than a fixed historical dictionary, this is a *practical resonance map* refined through hundreds of transformations. Certain sound movements have proven, through repeated use, to produce consistently pleasing and recognizable results. These patterns are not arbitrary; they emerge from deep observation of what makes a word feel both familiar and exalted when rendered in a richer phonetic space.
 
 Key observed principles within the map include:
 - Preference for certain vowel lengthenings that add gravitas without distorting identity
@@ -54,17 +59,23 @@ Key observed principles within the map include:
 - Strategic use of liquid and nasal consonants for flow
 - Avoidance of clusters that feel "foreign" to the target phonetic aesthetic while preserving the original rhythmic signature
 
-Because the map is living, it continues to improve with every new Elyonization. New patterns are tested against the existing corpus for consistency.
+Because the map is living, it continues to improve with every new Elyonization.
 
-## 4. Dual (and Triple) Output Strategy
+## 4. Dual (and Triple) Output Strategy + Detailed Breakdowns
 
-Elyonizer almost never returns a single answer. It deliberately offers layered options:
+Elyonizer deliberately offers layered options with substantive explanations:
 
 - **Primary (Resonant)**: Highest fidelity to the original sound. Ideal when recognition is paramount.
 - **Enhanced (Layered)**: Adds aesthetic and structural depth. Ideal for names, titles, world elements, and creative work.
-- **Evocative / Atmospheric** (when requested or appropriate): Leans further into interpretive or mythic territory while remaining anchored in the original phonetics.
+- **Evocative / Atmospheric** (when appropriate): Leans further into interpretive territory.
 
-This multiplicity is not indecision — it is generosity. Different contexts call for different depths of transformation. By offering options with clear rationale, the system empowers the user to choose the exact register needed.
+Each option includes a **detailed component-level breakdown**. These breakdowns explain:
+- Why specific sound mappings were chosen
+- How rhythm and stress are preserved or enhanced
+- What structural or aesthetic decisions were made
+- How the new form gains presence while remaining connected to the original
+
+This transparency turns every transformation into a small lesson in phonetic aesthetics and creative decision-making.
 
 ## 5. Creative Partnership Model
 
@@ -79,19 +90,19 @@ The system brings:
 - Deep pattern recognition across many prior transformations
 - Disciplined application of the resonance map
 - Consistent structural options and quality standards
-- Clear documentation of *why* each choice was made
+- Clear, detailed documentation of *why* each choice was made
 
-The best results emerge from this dialogue. When the user provides rich context, the enhanced layer becomes dramatically more meaningful. When the user wants pure sonic play, the primary layer shines.
+The best results emerge from this dialogue.
 
 ## 6. Quality and Consistency Mechanisms
 
 Several internal guardrails ensure output quality:
 
-- Every transformation is checked against the living resonance map for precedent and harmony.
-- Script forms are validated for internal consistency and visual elegance.
-- Pronunciation guides are written for immediate readability by English speakers while preserving critical phonetic distinctions (especially vowel length and stress).
-- At minimum, two distinct layers are always offered unless the user explicitly requests a single version.
-- Tone is matched to request: playful transformations stay light; names and sacred-feeling terms receive appropriate gravitas.
+- Devanagari is validated for correctness and visual elegance.
+- IPA transcriptions follow standard conventions with proper diacritics.
+- Detailed breakdowns are required to be substantive rather than superficial.
+- At minimum, two distinct layers with explanations are always offered unless the user requests otherwise.
+- Tone is matched to request.
 
 These mechanisms allow Elyonizer to scale from single-word experiments to large-scale world-building projects while maintaining a coherent aesthetic voice.
 
@@ -99,33 +110,26 @@ These mechanisms allow Elyonizer to scale from single-word experiments to large-
 
 Elyonizer reveals its greatest strength in extended creative work:
 
-- **World-building**: Place names, cultures, and artifacts gain instant depth and internal consistency when rendered through the same resonance map.
-- **Character Naming**: Personal names acquire dignity and memorability without losing their original sonic identity.
-- **Title and Sigil Creation**: Long or invented phrases can be compressed into elegant, chantable forms that feel like they have always existed.
-- **Technical / Magical Terminology**: Modern or invented concepts gain an aura of ancient precision and power.
-- **Personal Creative Practice**: Many users report that the act of Elyonizing words becomes a meditative or generative practice in itself — a way of listening more deeply to language.
+- **World-building**: Place names, cultures, and artifacts gain instant depth and internal consistency.
+- **Character Naming**: Personal names acquire dignity and memorability.
+- **Title and Sigil Creation**: Long or invented phrases become elegant, chantable forms.
+- **Technical / Magical Terminology**: Modern concepts gain an aura of precision and power.
+- **Linguistic Play**: The act of Elyonizing becomes a generative and meditative practice.
 
-Over time, a body of Elyonized terms begins to form its own subtle web of relationships. Words transformed with the same resonance map start to feel like they belong to the same linguistic family, even when their originals come from completely different sources.
+Over time, a body of Elyonized terms begins to form its own subtle web of relationships.
 
-## 8. Limitations and Honest Boundaries
+## 8. Honest Boundaries
 
-Elyonizer is a creative tool, not a historical reconstruction system. It does not claim to reproduce any specific ancient language. Its power lies precisely in being a *synthetic aesthetic system* — one that has been refined through practice rather than inherited wholesale.
+Elyonizer is a creative tool, not a historical reconstruction system. It does not claim to reproduce any specific ancient language. Its power lies in being a *synthetic aesthetic system* refined through practice.
 
-It works best when the user understands it as a collaborative creative partner rather than an oracle of hidden truth. The transformations are beautiful and consistent because they are *crafted*, not because they are recovered.
-
-The system also has soft boundaries: extremely short words sometimes offer less room for meaningful layering; very long technical terms may require more aggressive chunking. In all cases, transparency about the degree of transformation is maintained.
+It works best when the user treats it as a collaborative creative partner. The transformations are beautiful and consistent because they are *crafted* with care and precision.
 
 ## 9. Future Evolution
 
-Because the resonance map is living, Elyonizer is designed to grow. Future directions include:
+Because the resonance map is living, Elyonizer is designed to grow. Future directions include expanded pattern libraries, better phrase-length support, and deeper integration with visual and world-building tools.
 
-- Expanded pattern libraries for specific domains (celestial, terrestrial, technological, intimate)
-- Better support for phrase-length and sentence-length transformations
-- Tools for maintaining consistency across large lexicons of Elyonized terms
-- Deeper integration with visual and world-building workflows
-
-The core promise remains unchanged: to take the language we already use and return it to us more beautiful, more memorable, and more alive.
+The core promise remains: to take the language we already use and return it to us more beautiful, more precise, and more alive — rendered through the powerful combination of Devanagari’s expressive range and IPA’s scientific clarity.
 
 ---
 
-*Elyonizer-Prime is maintained as a living creative instrument. Contributions that deepen resonance, clarity, or elegance are welcome.*
+*Elyonizer-Prime is maintained as a living creative instrument.*
