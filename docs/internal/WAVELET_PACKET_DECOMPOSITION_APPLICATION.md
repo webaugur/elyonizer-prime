@@ -44,15 +44,46 @@ This produces a binary tree of packets. Each packet has:
 - A **position** in time (localized support)
 - An **energy** or coefficient magnitude
 
-### Step 4: Best-Basis Selection (Shannon Entropy or Similar)
+### Step 4: Best-Basis Selection Using Shannon Entropy (Detailed)
 
-Instead of using the full tree, select the most efficient representation using a cost function such as **Shannon entropy**:
+**Shannon entropy** is one of the most effective and theoretically grounded cost functions for best-basis selection in wavelet packet decomposition. It quantifies the "information content" or disorder in the coefficient distribution of each packet.
 
-$$H = -\sum p_i \log_2 p_i$$
+#### Mathematical Definition
 
-where $p_i$ are the normalized squared coefficients in a packet.
+For a packet with coefficients $c_i$, first normalize the squared coefficients to form a probability distribution:
 
-Choose the basis (set of non-overlapping packets) that minimizes the total entropy. This gives the most compact representation of the signal's interference structure.
+$$
+p_i = \frac{|c_i|^2}{\sum_j |c_j|^2 + \epsilon}
+$$
+
+(where $\epsilon$ is a small constant to avoid division by zero).
+
+The Shannon entropy of the packet is then:
+
+$$
+H = - \sum_i p_i \log_2 (p_i + \epsilon)
+$$
+
+Lower entropy indicates a more ordered, predictable coefficient distribution → the packet captures a **coherent, structured interference pattern** (strong nodal character or stable long-tail envelope).
+
+Higher entropy indicates more disordered or noise-like energy → regions of complex, chaotic, or rapidly fluctuating interference (high destructive interference or rich beating).
+
+#### Best-Basis Algorithm (Bottom-Up Pruning)
+
+1. Compute entropy for every packet in the full decomposition tree.
+2. Starting from the deepest level and moving upward:
+  - Compare the entropy of a parent node with the **sum** of the entropies of its two child nodes.
+  - If the children together have **lower total entropy** than the parent, keep the split (use the children as part of the basis).
+  - If the parent has lower or equal entropy, prune the children and keep the parent.
+3. Continue recursively until the root. The resulting pruned tree is the **best basis** — the most compact and information-rich representation of the signal’s multi-scale interference structure.
+
+#### Interpretation in Our Interference Framework
+
+- Packets retained in the best basis are those that most efficiently describe the underlying **localized interference systems** and **long-tail modulation**.
+- High-entropy packets that get pruned often correspond to transient or noisy interference that does not form stable, meaningful structure.
+- The total entropy of the best basis can serve as a quantitative scalar measure of the overall **complexity or richness of interference** in the original signal (lower = more coherent/ordered interference field; higher = more complex or entropic interference).
+
+This step is crucial because it automatically adapts the decomposition to the actual interference characteristics of the data rather than imposing a uniform scale structure.
 
 ### Step 5: Interpret the Packets in Interference Terms
 
