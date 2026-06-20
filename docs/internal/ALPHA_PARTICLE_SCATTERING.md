@@ -65,12 +65,17 @@ In the muon-catalyzed fusion context, the alpha particle is not just waste — i
 
 ## Potential Creative and Symbolic Applications
 
-Within the Elyonizer frameworks, alpha particle scattering and the alpha particle itself can be used in several ways:
+Alpha particle scattering and the properties of the alpha particle offer several rich symbolic tools:
 
-- **Revelation through Interaction**: The idea that deep structure is only revealed through strong, close encounters (large-angle scattering) rather than gentle passage.
-- **Stability of the Neutral State**: The helium nucleus as an example of a highly stable configuration emerging from the combination of protons and neutrons — analogous to the neutral axis as a stable synthesis.
-- **Catalytic Limitation**: The tendency of the muon to stick to the alpha particle as a metaphor for how catalytic or spiritual processes can become "bound" or limited by their own products.
-- **Distributed vs Concentrated Effects**: In the micro-reactions model, occasional strong scattering-like events could represent moments of significant insight or structural change amid many small catalytic "pops."
+- **Revelation through Close Encounter**: Use Rutherford scattering as a metaphor for how profound structural or spiritual truth is typically revealed not through casual or distant interaction, but through sufficiently intense, intimate, or high-stakes encounters. Most "probes" pass through without effect; only certain close approaches disclose the hidden organizing core.
+
+- **Neutral Axis as Stable Nucleus**: The helium/alpha particle (extremely stable, doubly magic nucleus) serves as a concrete image of the **neutral/synthesized axis** — a balanced, self-contained center that emerges from the fusion of lighter, more polar entities. It can represent the tangible result of ongoing catalytic or spiritual work.
+
+- **Binding as Natural Limitation**: The muon's tendency to stick to the newly formed alpha particle illustrates how the output or product of a catalytic or spiritual process can partially capture or limit the catalyst itself. This provides a physical metaphor for why sustained spiritual/energetic work often requires periodic renewal or fresh input rather than running indefinitely on its own momentum.
+
+- **Distributed Subtle Work vs Rare Strong Events**: In the micro-reactions / "manna" model, most activity consists of many small catalytic events. Occasional strong scattering-like moments can represent significant breakthroughs, revelations, or structural reorganizations that stand out against the background of quieter, ongoing work.
+
+- **Structured Output Carrying Energy**: The alpha particle carries both mass and kinetic energy away from the reaction site. This can symbolize how the products of spiritual or energetic processes often carry forward both form (structure) and potency (energy/momentum) into subsequent phases of work.
 
 ## Connection to Broader Models
 
