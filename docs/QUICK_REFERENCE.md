@@ -35,7 +35,7 @@ Includes:
 ## Cross-linguistic Notes (Analyze Mode)
 
 Supported languages:
-- Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque (phonetic similarity)
+- Hebrew, Cherokee, Irish Gaelic, Scots Doric, Welsh, Basque, Arabic (phonetic similarity)
 - German (use selectively)
 - Hindi, Aramaic (exact match)
 
@@ -47,6 +47,7 @@ Comprehensive guides for all phonetic source languages:
 - [Hebrew](docs/languages/hebrew.md)
 - [Hindi](docs/languages/hindi.md)
 - [Aramaic](docs/languages/aramaic.md)
+- [Arabic](docs/languages/arabic.md)
 - [Welsh](docs/languages/welsh.md)
 - [Basque](docs/languages/basque.md)
 - [Cherokee](docs/languages/cherokee.md)

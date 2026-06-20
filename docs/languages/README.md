@@ -17,6 +17,7 @@ Each language file is designed to be read in under 10–12 minutes while providi
 | **Hebrew**        | Phonetic similarity    | Ancient roots, biblical resonance  | [hebrew.md](./hebrew.md) |
 | **Hindi**         | Exact phonetic match   | Modern + Sanskrit-derived clarity  | [hindi.md](./hindi.md) |
 | **Aramaic**       | Exact phonetic match   | Mystical and early Semitic layers  | [aramaic.md](./aramaic.md) |
+| **Arabic**        | Phonetic similarity    | Rhythmic depth and conceptual power| [arabic.md](./arabic.md) |
 | **Welsh**         | Phonetic similarity    | Celtic musicality and myth         | [welsh.md](./welsh.md) |
 | **Basque**        | Phonetic similarity    | Isolate language, ancient depth    | [basque.md](./basque.md) |
 | **Cherokee**      | Phonetic similarity    | Indigenous North American voice    | [cherokee.md](./cherokee.md) |
