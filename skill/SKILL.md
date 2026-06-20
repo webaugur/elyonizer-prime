@@ -116,6 +116,9 @@ Format it like a real dictionary entry:
 
 Treat the newly created form as a legitimate new lexical item.
 
+**Plain Language Restoration**
+At the very end of every full response, add a short, natural explanation (in English or the user's language) that "restores" the meaning by breaking the form back into its root components and ideas — similar to how Google Translate renders a phrase. Keep it simple, clear, and conversational. Draw from the sound mappings and root notes already used.
+
 ## Special Cases & Refinements
 
 - **Place Names & Locations:** Provide one close resonant version and one that carries a sense of ancient or elevated geography.
